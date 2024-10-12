@@ -55,7 +55,7 @@
 
 <h3 align="left">Resume</h3>
 <p align="left">
-<a href="https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto" target="_blank">Download My Resume</a>
+<a href="https://drive.google.com/file/d/1qzjtGUt09-lFy_OEwkxnkwLbU9SWaneZ/view?usp=drive_link" target="_blank">Download My Resume</a>
 </p>
 
 ---
